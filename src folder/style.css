@@ -1,0 +1,21 @@
+p {
+    color: rgb(204, 255, 0);
+    text-align: justify;
+}
+
+label {
+    color: brown;
+    text-align: left;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    background-color: gold;
+}
+
+h3{
+    color: blue;
+    background-color: chartreuse;
+}
+
